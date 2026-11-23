@@ -1,7 +1,7 @@
 
 /**
- * eSchool training exercises — CSS locators, navigation, hover, and
- * assertions against automationexercise.com. Written manually for practice.
+ * eSchool training exercises — CSS locators, navigation, hover interaction,
+ * and assertions against automationexercise.com. Written manually for practice.
  */
 
 import { test, expect, Page, Locator } from "@playwright/test";
