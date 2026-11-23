@@ -4,7 +4,7 @@
  * assertions against automationexercise.com. Written manually for practice.
  */
 
-import { test, expect, Page } from "@playwright/test";
+import { test, expect, Page, Locator } from "@playwright/test";
 
 test.describe("first test suite", () => {
 
